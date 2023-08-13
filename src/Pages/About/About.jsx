@@ -33,7 +33,11 @@ function About() {
         </div>
       </div>
       <div className="about-left">
-        <Video soruce="https://www.youtube.com/watch?v=d1VN6h8m498" />
+        <Video
+          soruce="https://www.youtube.com/embed/d1VN6h8m498"
+          frameborder="0"
+          allowfullscreen
+        />
       </div>
     </div>
   );
