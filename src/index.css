@@ -95,7 +95,7 @@ body {
   font-weight: bold;
 }
 
-.line p {
+.line span {
   padding: 5px;
   border-radius: 50%;
   background-color: #e3b254;

@@ -3,7 +3,7 @@ function Line({ children }) {
   return (
     <div>
       <p className="line">
-        <p></p> {children}
+        <span></span> {children}
       </p>
     </div>
   );
